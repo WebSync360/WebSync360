@@ -1,44 +1,53 @@
-# 👋 Hi, I’m WebSync360
-**Web Integrator & Automator** | Landing Pages & Dashboards for Coaches, & Course Creators  
+# Hi, I’m WebSync360
+**Web Integrator & Automator for Coaches | Landing Pages • Dashboards • Automation
+Helping Business, Fitness & Mindset coaches get more leads, close clients, and automate their coaching workflow.
 
 ---
 
 ## 🔹 About Me
-I build **high-converting, visually appealing web interfaces** and automation workflows for professionals who want to focus on their business while I handle their online presence. My work spans:  
+I build high-converting landing pages, dashboards, and automated workflows specifically for Business, Fitness, and Mindset coaches, helping them focus on coaching while I handle their online systems. My work spans:  
 
-- **Landing Pages** → Mobile-first, niche-focused, lead-generating  
-- **Dashboards** → Interactive, data-driven, client-ready interfaces  
-- **UI Kits & Components** → Reusable, modern, scalable  
-- **Automation Tools** → Simple workflows to save time & improve efficiency  
+- **Landing Pages** → Lead-generating, mobile-first, tailored to your coaching niche  
+- **Dashboards** → Track clients, bookings, revenue, and program progress  
+- **Automation Workflows** → Manage leads, payments, onboarding, and follow-ups automatically  
 
-I combine **Web2 front-end skills** with **automation and integration expertise**, preparing for future **Web3 workflows**.  
+I focus on **clean design, simple user experiences, and automation**, helping coaches scale without getting bogged down in technical tasks.    
 
 ---
 
 ## 🛠️ Skills & Technologies
+
 **Frontend & Design:**  
-HTML | CSS | JavaScript | Tailwind | React | TypeScript  
+HTML | CSS | Tailwind | React | TypeScript  
 
 **API & Integration:**  
 REST APIs | Fetch / Axios | Google Sheets | Airtable | Notion  
 
-**Automation & Backend:**  
-Zapier | Make (Integromat) | n8n | Pabbly | Node.js | Firebase | Supabase  
+**Automation & Workflows:**  
+Zapier | Make (Integromat) | n8n | Pabbly  
 
 **Deployment & Hosting:**  
 Vercel | Netlify | GitHub Pages  
 
 ---
 
-## 📈 My Mission
-To help **coaches, consultants, and course creators** build a **powerful online presence** with web solutions that:  
+## 📈 Mission
+To empower **Business, Fitness, and Mindset coaches** with web systems and automation that:
 
-- Generate leads  
+- Generate leads consistently  
+- Close clients efficiently  
 - Streamline workflows  
-- Scale with their business  
+- Scale their coaching business with ease  
 
-My goal is to **bridge web integration, automation, and future-ready Web3 tools**, turning ideas into client-ready products.  
+> “Building web systems, automating your coaching workflow, scaling your impact.”
 
 ---
 
-> _“Building the web, automating your workflow, scaling your impact.”_  
+> _“Building the web, automating your workflow, scaling your impact.”_
+
+---
+
+## Contact / Work With Me
+- **DM me on X:** [@WebSync360o](https://x.com/WebSync360o)
+
+---
