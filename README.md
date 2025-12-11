@@ -41,7 +41,7 @@ To empower **Business, Fitness, and Mindset coaches** with web systems and autom
 
 ---
 
-> _“Building the web, automating your workflow, scaling your impact.”
+> “Building the web, automating your workflow, scaling your impact.”
 
 ---
 
