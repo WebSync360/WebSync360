@@ -1,5 +1,5 @@
 # Hi, I’m WebSync360
-**Web Integrator & Automator for Coaches | Landing Pages • Dashboards • Automation
+Web Integrator & Automator for Coaches | Landing Pages • Dashboards • Automation
 Helping Business, Fitness & Mindset coaches get more leads, close clients, and automate their coaching workflow.
 
 ---
@@ -39,11 +39,9 @@ To empower **Business, Fitness, and Mindset coaches** with web systems and autom
 - Streamline workflows  
 - Scale their coaching business with ease  
 
-> “Building web systems, automating your coaching workflow, scaling your impact.”
-
 ---
 
-> _“Building the web, automating your workflow, scaling your impact.”_
+> _“Building the web, automating your workflow, scaling your impact.”
 
 ---
 
