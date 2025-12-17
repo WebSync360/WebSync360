@@ -4,7 +4,7 @@ Helping Business, Fitness & Mindset coaches get more leads, close clients, and a
 
 ---
 
-## 🔹 About Me
+## About Me
 I build high-converting landing pages, dashboards, and automated workflows specifically for Business, Fitness, and Mindset coaches, helping them focus on coaching while I handle their online systems. My work spans:  
 
 - **Landing Pages** → Lead-generating, mobile-first, tailored to your coaching niche  
@@ -14,7 +14,8 @@ I build high-converting landing pages, dashboards, and automated workflows speci
 I focus on **clean design, simple user experiences, and automation**, helping coaches scale without getting bogged down in technical tasks.    
 
 ---
-#My fortfolio projects
+
+## My fortfolio projects
 - https://myndco.vercel.app
 - https://hgbookingwebpage.vercel.app
 - https://websync360.github.io/CoachFunnel-LP-WebSync360
