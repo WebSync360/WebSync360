@@ -14,6 +14,14 @@ I build high-converting landing pages, dashboards, and automated workflows speci
 I focus on **clean design, simple user experiences, and automation**, helping coaches scale without getting bogged down in technical tasks.    
 
 ---
+#My fortfolio projects
+- https://myndco.vercel.app
+- https://hgbookingwebpage.vercel.app
+- https://websync360.github.io/CoachFunnel-LP-WebSync360
+- https://fitnesscoachlandingpage.vercel.app
+- https://fitnesscoachdashboard-five.vercel.app
+
+---
 
 ## 🛠️ Skills & Technologies
 
