@@ -17,7 +17,7 @@ I focus on **clean design, simple user experiences, and automation**, helping co
 
 ## My fortfolio projects
 - https://myndco.vercel.app
-- https://bizedge-bice.vercel.app/
+- https://bizedge-bice.vercel.app
 - https://hgbookingwebpage.vercel.app
 - https://websync360.github.io/CoachFunnel-LP-WebSync360
 - https://fitnesscoachlandingpage.vercel.app
