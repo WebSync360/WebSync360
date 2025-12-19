@@ -21,6 +21,7 @@ I focus on **clean design, simple user experiences, and automation**, helping co
 - https://hgbookingwebpage.vercel.app
 - https://websync360.github.io/CoachFunnel-LP-WebSync360
 - https://fitnesscoachlandingpage.vercel.app
+- https://edgecrm-psi.vercel.app/
 - https://fitnesscoachdashboard-five.vercel.app
 
 ---
