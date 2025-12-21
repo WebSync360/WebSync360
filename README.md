@@ -127,7 +127,7 @@ To help coaches build systems that:
 ---
 ## CONNECT
 ---
-X (Twitter) : https://x.com/WebSync360o
+X (Twitter) : https://x.com/WebSync360io
 Portfolio   : https://websync360io.vercel.app
 
 ---
