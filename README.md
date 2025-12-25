@@ -1,11 +1,11 @@
 ---
- WebSync360 :: Conversion-Driven Web Systems Portfolio
- Role     : Web Systems Integrator & Automation Engineer
+ DevAbdul :: Conversion-Driven Web Systems Portfolio
+ Role     : Web Systems & Automation Engineer
  Market   : Business, Fitness & Mindset Coaches
 ---
 
 > VALUE STATEMENT
-WebSync360 builds revenue-focused web systems for coaches who want more
+Abdul builds revenue-focused web systems for coaches who want more
 leads, smoother onboarding, and automated workflows, without tech stress.
 
 If your landing pages don’t convert, your tools don’t sync, or your
@@ -128,7 +128,7 @@ To help coaches build systems that:
 ## CONNECT
 ---
 X (Twitter) : https://x.com/WebSync360io
-Portfolio   : https://websync360io.vercel.app
+Portfolio   : https://dev-abdul-portfolio.vercel.app
 
 ---
 ## STATUS : READY FOR DEPLOYMENT
