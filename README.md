@@ -4,8 +4,7 @@
  Market   : Business, Fitness & Mindset Coaches
 ---
 
-> VALUE STATEMENT
-Abdul builds revenue-focused web systems for coaches who want more
+> I build revenue-focused web systems for coaches who want more
 leads, smoother onboarding, and automated workflows, without tech stress.
 
 If your landing pages don’t convert, your tools don’t sync, or your
