@@ -1,4 +1,4 @@
-# ⚡ SyntaxLabs | ABDUL
+# ABDUL QADEER
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Web3_Systems_Engineer-blue?style=flat-square&logo=ethereum" />
@@ -6,15 +6,9 @@
   <img src="https://img.shields.io/badge/Organization-SyntaxLabs-black?style=flat-square" />
 </p>
 
-> **Architecting the infrastructure of decentralized coordination.** > I bridge high-performance Web2 automation with secure Web3 governance protocols. Formerly engineering conversion systems for top-tier coaches; now solving **Voter Fatigue** for the @Uniswap ecosystem.
+> **Architecting the infrastructure of decentralized coordination.** > I bridge high-performance Web2 automation with secure Web3 governance protocols. Formerly engineering conversion systems for top-tier coaches; currrently working on solving **Voter Fatigue** for the @Uniswap ecosystem.
 
 ---
-
-### 🏗️ Current Mission: Web3 Infrastructure
-| Project | Status | Description |
-| :--- | :--- | :--- |
-| **[Uniswap Gov Dashboard](https://github.com/your-repo)** | `In Development` | Aggregating high-signal governance data to solve voter participation friction. |
-| **SyntaxLabs UI Kit** | `Alpha` | A proprietary framework for rapid deployment of Web3 interfaces (Next.js + Wagmi). |
 
 ### 🛠️ Technical Stack
 **Languages & Frameworks** ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
