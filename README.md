@@ -1,134 +1,45 @@
----
- DevAbdul :: Conversion-Driven Web Systems Portfolio
- Role     : Web Systems & Automation Engineer
- Market   : Business, Fitness & Mindset Coaches
----
+# ⚡ SyntaxLabs | ABDUL
 
-> I build revenue-focused web systems for coaches who want more
-leads, smoother onboarding, and automated workflows, without tech stress.
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Web3_Systems_Engineer-blue?style=flat-square&logo=ethereum" />
+  <img src="https://img.shields.io/badge/Focus-DAO_Architecture-white?style=flat-square&logo=governance" />
+  <img src="https://img.shields.io/badge/Organization-SyntaxLabs-black?style=flat-square" />
+</p>
 
-If your landing pages don’t convert, your tools don’t sync, or your
-onboarding is still manual, this portfolio demonstrates how those problems
-are engineered out of the system.
+> **Architecting the infrastructure of decentralized coordination.** > I bridge high-performance Web2 automation with secure Web3 governance protocols. Formerly engineering conversion systems for top-tier coaches; now solving **Voter Fatigue** for the @Uniswap ecosystem.
 
 ---
-## THE PROBLEM COACHES FACE
----
-• Visitors land but don’t convert
 
-• Leads fall through the cracks
+### 🏗️ Current Mission: Web3 Infrastructure
+| Project | Status | Description |
+| :--- | :--- | :--- |
+| **[Uniswap Gov Dashboard](https://github.com/your-repo)** | `In Development` | Aggregating high-signal governance data to solve voter participation friction. |
+| **SyntaxLabs UI Kit** | `Alpha` | A proprietary framework for rapid deployment of Web3 interfaces (Next.js + Wagmi). |
 
-• Too much time spent on emails, follow-ups, and scheduling
+### 🛠️ Technical Stack
+**Languages & Frameworks** ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-• Multiple tools that don’t communicate with each other
-
-• No clear visibility into clients, revenue, or progress
-
----
-## THE WEBSYNC360 SOLUTION
----
-I design and integrate complete coaching systems that:
-
-
-• Convert visitors into qualified leads
-
-• Automate onboarding, payments, and follow-ups
-
-• Centralize client data, bookings, and revenue
-
-• Reduce manual work and operational friction
-
-• Scale cleanly as the coaching business grows
-
-This is not just web design, it’s system engineering.
+**Blockchain & Tooling** `Foundry` • `Ethers.js` • `The Graph` • `Wagmi` • `Vercel` • `Hardhat`
 
 ---
-## CORE SYSTEM COMPONENTS
----
 
-[01] Conversion-Focused Landing Pages
+###  Proof of Work (Legacy Systems)
+*Before pivoting to Web3, I engineered high-conversion operational systems for 20+ business entities.*
 
-• Mobile-first, niche-specific layouts
-• Clear value hierarchy and strong CTAs
-• Optimized for speed, clarity, and trust
-
-[02] Operational Dashboards
-
-• Client tracking and program management
-• Booking, revenue, and performance visibility
-• Designed for daily operational use
-
-[03] Automation & Workflow Systems
-
-• Lead capture → payment → onboarding automation
-• Email and WhatsApp follow-ups
-• CRM-style logic without unnecessary complexity
+- **Operational Dashboards:** Specialized CRM and management tools for Fitness & Mindset coaches.
+- **Automation Pipelines:** Integrated lead capture → payment → onboarding flows using custom logic and third-party APIs (Zapier, n8n).
+- **Core Deployments:** - [MyndCo](https://myndco.vercel.app) • [BizEdge](https://bizedge-bice.vercel.app) • [Edge CRM](https://edgecrm-psi.vercel.app)
 
 ---
-## REAL SYSTEM DEPLOYMENTS
----
-• MyndCo                 : https://myndco.vercel.app
 
-• BizEdge                : https://bizedge-bice.vercel.app
-
-• HG Booking             : https://hgbookingwebpage.vercel.app
-
-• Coach Funnel LP        : https://websync360.github.io/CoachFunnel-LP-WebSync360
-
-• Fitness Coach LP       : https://fitnesscoachlandingpage.vercel.app
-
-• Edge CRM               : https://edgecrm-psi.vercel.app
-
-• Fitness Coach Dashboard: https://fitnesscoachdashboard-five.vercel.app
+### Connect with the Lab
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SyntaxLabs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-abdul-portfolio.vercel.app)
 
 ---
-## TECHNICAL STACK (PRODUCTION-READY)
----
-Frontend        : HTML, CSS, TailwindCSS, React, TypeScript
-
-APIs & Data     : REST APIs, Fetch/Axios, Google Sheets,
-                  Airtable, Notion
-
-Automation      : Zapier, Make (Integromat), n8n, Pabbly
-
-Deployment      : Vercel, Netlify, GitHub Pages
-
----
-## WHO THIS IS FOR
----
-
-• Coaches tired of manual workflows
-
-• Coaches scaling programs or 1-on-1 services
-
-• Coaches who want systems, not tools
-
-• Coaches who care about conversion and efficiency
-
----
-## MISSION
----
-To help coaches build systems that:
-
-• Generate leads consistently
-
-• Close clients efficiently
-
-• Operate smoothly without constant attention
-
-• Scale without breaking
-
----
-## BRAND PROMISE
----
-"Build once. Automate the rest. Scale with clarity."
-
----
-## CONNECT
----
-X (Twitter) : https://x.com/WebSync360io
-Portfolio   : https://dev-abdul-portfolio.vercel.app
-
----
-## STATUS : READY FOR DEPLOYMENT
----
+<p align="center">
+  <i>"Build once. Automate the rest. Scale with clarity."</i>
+</p>
