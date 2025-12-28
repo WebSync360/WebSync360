@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Organization-SyntaxLabs-black?style=flat-square" />
 </p>
 
-> **Architecting the infrastructure of decentralized coordination.** > I bridge high-performance Web2 automation with secure Web3 governance protocols. Formerly engineering conversion systems for top-tier coaches; currrently working on solving **Voter Fatigue** for the @Uniswap ecosystem.
+> **Architecting the infrastructure of decentralized coordination.** > I bridge high-performance Custom Web with secure Web3 governance protocols. Formerly engineering conversion systems for top-tier coaches; currrently working on solving **Voter Fatigue** for the @Uniswap ecosystem.
 
 ---
 
