@@ -1,10 +1,5 @@
 # ABDUL QADEER
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Web3_Systems_Engineer-blue?style=flat-square&logo=ethereum" />
-  <img src="https://img.shields.io/badge/Focus-DAO_Architecture-white?style=flat-square&logo=governance" />
-  <img src="https://img.shields.io/badge/Organization-SyntaxLabs-black?style=flat-square" />
-</p>
 
 > **Architecting the infrastructure of decentralized coordination.** > I bridge high-performance Custom Web with secure Web3 governance protocols. Formerly engineering conversion systems for top-tier coaches; currrently working on solving **Voter Fatigue** for the @Uniswap ecosystem.
 
