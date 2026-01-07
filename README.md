@@ -18,7 +18,7 @@ ignoring the structural integrity of the systems they inhabit.
 
 Engineering is not about typing; it is about the aggressive reduction 
 of friction. Whether I am synchronizing identity layers across 
-distributed databases or solving for founders and solo builders in the 
+distributed databases or solving problems for founders and solo builders in the 
 ecosystem, my objective remains the same: <b>Total System Autonomy.</b>
 
 If a process requires human intervention more than once, it is a 
