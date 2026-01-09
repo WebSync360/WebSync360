@@ -14,7 +14,7 @@
 Most of the modern web is a collection of fragile abstractions and 
 manual patches. We have spent a decade building "features" while 
 ignoring the structural integrity of the systems they inhabit. 
-<b>I do not build features; I architect environments of certainty........</b>
+<b>I do not build features; I architect environments of certainty.......</b>
 
 Engineering is not about typing; it is about the aggressive reduction 
 of friction. Whether I am synchronizing identity layers across 
