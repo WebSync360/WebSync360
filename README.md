@@ -1,11 +1,9 @@
 -------------------------------------------------------------------------
-|                                                                       |
-|   "I build systems that remove busywork and empower founders."        |
-|                                                                       |
+   "I build systems that remove busywork and empower founders."       
 -------------------------------------------------------------------------
 
 Most early-stage SaaS teams juggle Notion, Slack, Sheets, Stripe, 
-and Email — wasting hours daily on repetitive tasks and scattered data. 
+and Email, wasting hours daily on repetitive tasks and scattered data. 
 I do not build features; I engineer clarity and autonomy.
 
 Engineering is not about writing code fast; it is about eliminating friction. 
