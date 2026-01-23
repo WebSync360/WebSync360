@@ -31,14 +31,6 @@ WHAT I DO
 - MULTI-TENANT & SCALE SYSTEMS: Build frameworks that grow with your business
 -------------------------------------------------------------------------
 
-TECH STACK & TOOLS
--------------------------------------------------------------------------
-- Frontend: Next.js, TypeScript, Tailwind CSS, shadcn/ui, Lucide Icons
-- Data Handling: Mock JSON → ready to swap for real APIs
-- UX Focus: Calm, clear, founder-first design
-- Automation: Workflow orchestration & task reduction
--------------------------------------------------------------------------
-
 PHILOSOPHY
 -------------------------------------------------------------------------
 - Build clarity-first systems, not flashy features
