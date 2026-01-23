@@ -13,7 +13,7 @@ or workflow automations, my mission is the same: TOTAL FOUNDER AUTONOMY.
 If a workflow requires human intervention more than once, it is a design failure. 
 If critical data lives across multiple disconnected tools, it is inefficiency. 
 I unify systems, automate processes, and structure operations so founders can 
-focus on growth, not manual work..
+focus on growth, not manual work.
 
 I am not here to maintain legacy; I am here to define standards. 
 I build for clarity, automate for scale, and deploy for permanence. 
