@@ -42,7 +42,7 @@ PHILOSOPHY
 
 MISSION STATEMENT
 -------------------------------------------------------------------------
-"I architect internal systems, dashboards, and workflows that save founders
+I architect internal systems, dashboards, and workflows that save founders
 hours, eliminate friction, and empower decision-making, all while being
-scalable and maintainable."
+scalable and maintainable.
 -------------------------------------------------------------------------
