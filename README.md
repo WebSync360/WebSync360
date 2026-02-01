@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------
-   "I build systems that remove busywork and empower founders."       
+   I build systems that remove busywork and empower founders.       
 -------------------------------------------------------------------------
 
 Most early-stage SaaS teams juggle Notion, Slack, Sheets, Stripe, 
