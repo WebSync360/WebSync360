@@ -36,7 +36,7 @@ PHILOSOPHY
 - Build clarity-first systems, not flashy features
 - Automate founder pain points and internal bottlenecks
 - Ensure scalability and reusability from day one
-- Avoid premature complexity — keep interfaces and flows understandable
+- Avoid premature complexity, keep interfaces and flows understandable
 - Focus on real-world adoption, not portfolio showpieces
 -------------------------------------------------------------------------
 
